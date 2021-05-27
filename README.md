@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noepinefrin
+- 👀 I’m interested in bioinformatics and computational biology.
+- 🌱 I’m currently learning python and R.
+- 💞️ I’m looking to collaborate on interesting and studying in the field of bioinformatics and computational biology.
+- 📫 How to reach me, you can reach me via email: berkayozcelik77@hotmail.com.
